@@ -1,4 +1,5 @@
 import './style.css'
+import"./Users/JuanCA/pCardiel/02-obj-interfaz-arre.ts"
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
